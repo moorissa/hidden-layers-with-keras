@@ -2,7 +2,11 @@
 Authors: Moorissa Tjokro, Jager Hartman
 
 ## Overview
-We will be using the [Keras Sequential Interface](https://keras.io/getting-started/sequential-model-guide/). We will run two multilayer perceptron models and two convolutional neural network models for four different datasets: Iris, MNIST, SVHN, and a dataset with a variety of dog types.
+We will be using the [Keras Sequential Interface](https://keras.io/getting-started/sequential-model-guide/) and the following datasets to run two multilayer perceptron models and two convolutional neural network models for building models:
+* Iris
+* MNIST
+* SVHN
+* Pets dataset with a variety of dog types.
 
 ## Tasks
 *Codes can be found in github folders*
