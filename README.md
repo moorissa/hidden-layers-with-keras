@@ -1,4 +1,5 @@
 # Deep Learning with Keras
+Moorissa Tjokro
 
 ## Overview
 I will be using the [Keras Sequential Interface](https://keras.io/getting-started/sequential-model-guide/) and the following datasets to run two multilayer perceptron models and two convolutional neural network models for building models:
